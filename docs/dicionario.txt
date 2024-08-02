@@ -1,0 +1,18 @@
+Dicionário de dados do arquivo 'base_vendas_desafio.csv'
+
+Descrição das colunas:
+
+Material: Código único de cada produto. 
+descricao material: Nome do produto
+gm3: Código do Grupo de Mercadoria ao qual cada produto pertence
+descricao gm3: Nome do Grupo de Mercadoria
+id loja: Código da loja onde foi realizada a venda
+nome loja: Nome da loja onde foi realizada a venda
+Cidade loja: Cidade de origem da loja
+UF: Estado de origem da loja
+preco custo: Preço de custo (sem frete) do produto
+frete: Percentual do preço de frete que deve ser aplicado ao preço de custo para obter o preço de custo total do produto 
+preco venda: Preço de venda do produto
+qtd vendida: Quantidade de unidades que foram vendidas em determinada data
+data venda: Dia da venda
+
